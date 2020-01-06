@@ -1,14 +1,54 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"AgencyName": "Team One",
+	"Advertiser": "Lexus",
+	"Campaign": "Lexus_CY19 Lexus LDA East_Team One_40439",
+	"Publisher": "NCC Digital Media",
+	PixelTags:[
+		{
+			"PlacementID": 1440612,
+			"PlacementName": "NCC_East_New York_Addressable NCC GO RX 2_TVE_:30 Video_1x1_08012019-09022019",
+			"Platform": "Standard Pre-Roll",
+			"VideoName": "TZARET00025H_2019_RX_350_AWD____Innovid",
+			"Events": [
+				{
+					"Event": "VIDEO DOWNLOAD",
+					"TrackingPixel": "urls",
+					"AdditionalTrackingPixel": false
+				},
+				{
+					"Event": "Impression",
+					"TrackingPixel": "urls",
+					"AdditionalTrackingPixel": false
+				},
+				{
+					"Event": "Impression",
+					"TrackingPixel": "urls",
+					"AdditionalTrackingPixel": true
+				}
+			]		
+		},
+		{
+			"PlacementID": 1440612,
+			"PlacementName": "NCC_East_New York_Addressable NCC GO RX 2_TVE_:30 Video_1x1_08012019-09022019",
+			"Platform": "Standard Pre-Roll",
+			"VideoName": "TZARET00025H_2019_RX_350_AWD____Innovid",
+			"Events": [
+				{
+					"Event": "VIDEO DOWNLOAD",
+					"TrackingPixel": "urls",
+					"AdditionalTrackingPixel": false
+				},
+				{
+					"Event": "Impression",
+					"TrackingPixel": "urls",
+					"AdditionalTrackingPixel": false
+				},
+				{
+					"Event": "Impression",
+					"TrackingPixel": "urls",
+					"AdditionalTrackingPixel": true
+				}
+			]		
+		}
+	]	
 }
